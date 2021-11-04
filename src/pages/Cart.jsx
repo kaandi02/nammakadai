@@ -281,7 +281,7 @@ const Cart = () => {
 		}
 		if(StripeToken && cart.total>0)
 			makeRequest();
-	}, [StripeToken,cart.total,history])
+	}, [StripeToken,cart,history])
 	return (
 		<Container>
 			<Announcement />
