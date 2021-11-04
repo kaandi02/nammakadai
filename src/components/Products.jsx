@@ -1,7 +1,6 @@
 import {useState,useEffect} from 'react';
 import styled from 'styled-components';
 import axios from 'axios';
-import {popularProducts} from '../Data/data';
 import Product from './Product';
 
 const Container=styled.div`
