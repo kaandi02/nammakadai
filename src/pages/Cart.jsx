@@ -8,7 +8,7 @@ import Footer from '../components/Footer'
 import {Add,Remove} from '@mui/icons-material'
 import {mobile,mmobile,pc,ld} from '../responsive';
 import {useSelector} from 'react-redux';
-import {publicRequest,userRequest} from '../requestsMethod.js';
+import {userRequest} from '../requestsMethod.js';
 import StripeCheckout from 'react-stripe-checkout';
 
 const Container=styled.div`
