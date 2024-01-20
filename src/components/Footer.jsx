@@ -166,7 +166,7 @@ const Footer = () => {
 			<Right>
 				<Title>Contact</Title>
 				<ContactItem><Room style={{marginRight:"10px"}} />Kovilpatti</ContactItem>
-				<ContactItem><Phone style={{marginRight:"10px"}} />+91 7639928555</ContactItem>
+				<ContactItem><Phone style={{marginRight:"10px"}} />+91 9876543210</ContactItem>
 				<ContactItem><Mail style={{marginRight:"10px"}} />webuilder.web.app@gmail.com</ContactItem>
 				<Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
 			</Right>
